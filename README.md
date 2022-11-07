@@ -6,10 +6,10 @@ Supervisor : Fahmin Ahmed(Afn1)
 
 Group Members:
 
-Mohd. Istiaq Hossain Junaid
-Faisal Hossain
-Udayan shah Upal
-Anjana tameem
-Abul Kasheem
+  1. Mohd. Istiaq Hossain Junaid
+  2. Faisal Hossain
+  3. Udayan shah Upal
+  4. Anjana tameem
+  5. Abul Kasheem
 
 It was fun to help creating a dataset in my own language (Bengali) manually.
