@@ -1,6 +1,6 @@
 # Bangla-Food-Review-Sentiment-Analysis-Research
 
-This is a research (CSE498R) Project of my seniors where I helped creating the dataset and some menial works.
+This is a research (CSE498R) Project of my seniors where I helped creating the dataset and did some menial works.
 
 Supervisor : Fahmin Ahmed(Afn1)
 
